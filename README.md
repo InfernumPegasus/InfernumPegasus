@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++, Java, Spring Boot
+- 🌱 I’m currently learning Java, Spring Boot, SQL
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=InfernumPegasus&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernumPegasus&layout=compact&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)
