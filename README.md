@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Vladimir Kirillov 👋
 
-- 🌱 I’m currently learning Java, Spring Boot, SQL
-- 🔭 I’m currently working on [Anti-Fraud System on Spring](https://hyperskill.org/projects/232?track=12)
+- 🌱 I’m currently learning C, C++, SQL
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=InfernumPegasus&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernumPegasus&layout=compact&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)
