@@ -1,9 +1,9 @@
 ### Hi there, my name is Vladimir Kirillov 👋
 
-- 🌱 I’m currently learning C, C++, SQL
+Currently learning C++
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=InfernumPegasus&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)  
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernumPegasus&layout=compact&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)!-->
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=InfernumPegasus&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernumPegasus&layout=compact&theme=synthwave)](https://github.com/InfernumPegasus/github-readme-stats)!-->
 
 <!--
 **InfernumPegasus/InfernumPegasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
